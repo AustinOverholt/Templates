@@ -8,3 +8,4 @@ Currently included:
   * Sample app for AngularJs projects
   * Sample controller for AngularJs projects
   * Sample service for AngularJs projects
+  * Sample Responsive CSS Grid example 
